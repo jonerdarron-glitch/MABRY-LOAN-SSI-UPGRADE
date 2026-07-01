@@ -1,0 +1,11 @@
+- **Live preview** placeholder — just paste your GitHub Pages / Netlify link
+- **Screenshots table** — already references your two MABRY photos
+- **Full features list** with checkmarks
+- **Project structure** showing every file and folder
+- **Pages table** describing each HTML file
+- **Tech stack table**
+- **Getting started guide** — 3 ways to run locally
+- **FormSubmit setup instructions** — so you know to confirm the first email
+- **Color scheme reference**
+- **Responsive breakpoints**
+- **Credits & license
